@@ -1,0 +1,2 @@
+As operações de CRUD(create, read, update e delete) e os validadores de Category, Subcategory e Course são todos funcionais.
+Já a parte de segurança da aplicação por exemplo é um requisito não funcional.
